@@ -1,0 +1,34 @@
+body{
+    background:linear-gradient(rgb(159, 34, 197),rgb(233, 95, 159))
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+h3{
+color: white;
+}
+
+#disk{
+    width: 100px;
+    border-radius: 25px;
+}
+
+#divSpeed{
+    float:left;
+}
+
+#divVolume{
+    float:right;
+}
+
+#play{
+    color: white;
+}
+
+
+Canvas{
+ border: 5px solid white;
+ border-radius: 20px;   
+}
